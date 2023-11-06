@@ -1,0 +1,98 @@
+.red{
+    background-color: #cc1d1d;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #E85D04;
+}
+.blue{
+    background-color: blue;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #34da5d;
+}
+.green{
+    background-color: green;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #D00000;
+}
+.purple{
+    background-color: purple;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #D90429;
+}
+.pink{
+    background-color: pink;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #F98444;
+}
+.yellow{
+    background-color: yellow;
+    font-family: Arial;
+    font-size: 1.25rem;
+    color: #AACC00;
+}
+a:link{
+    color: #529eac;
+}
+a:visited{
+    color: #34da5d;
+}
+a:hover{
+    color: #d41750;
+}
+.profile-pic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.profile-alignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.center-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.link-cells{
+    padding: 10px;
+}
+.info-alignment{
+    margin-left: auto;
+    margin-right: auto;
+}
+.head-one-aline{
+    text-align: center;
+}
+.ol-level-two{
+    list-style-type: lower-roman;
+}
+.ul-list-type{
+    list-style-type: none;
+}
+.song-title{
+    font-weight: bold;
+    font-style: italic;
+    text-decoration-line: underline;
+    display: inline;
+}
+.li-underline{
+    text-decoration-line: underline;
+    display: inline;
+}
+.business-list{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+.dot-gone{
+    list-style-type: none;
+}
+.gaming-centered{
+    text-align: center;
+}
+.gaming-images{
+    border-radius: 30%;
+}
